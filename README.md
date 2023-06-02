@@ -29,5 +29,7 @@ Deploy the trained model as a mobile application that can recognize human activi
 
 #### Dataset:
 The dataset used for this project is the "Human Activity Recognition Using Smartphone Dataset." It includes labeled data for activities such as walking, walking upstairs, walking downstairs, standing, sitting, and lying. The dataset is divided into two parts: a raw dataset and a pre-engineered dataset with classical machine learning models for activity prediction.
+
 Train data: https://www.kaggle.com/datasets/uciml/human-activity-recognition-with-smartphones?select=train.csv
+
 Test data: https://www.kaggle.com/datasets/uciml/human-activity-recognition-with-smartphones?select=test.csv
